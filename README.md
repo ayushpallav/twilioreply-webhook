@@ -1,7 +1,9 @@
 # twilioreply-webhook
 This webhook gets triggered when a reply is received by twilio <br> 
-clone the repository <br> <b> cd twilioreply-webhook </b><br>
-Make required adjustments in settings.py for applied hosts <br>
+<h4> clone the repository </h4><br> <b> cd twilioreply-webhook </b><br>
+<h4> Make required adjustments in settings.py for applied hosts </h4><br>
+<br> vim app/views.py <br>
+<h4> Enter the URL for the workflow </h4>
 <b> python manage.py runserver </b><br>
 After the API is running : <br>
 <ol>
