@@ -2,7 +2,7 @@
 This webhook gets triggered when a reply is received by twilio <br> 
 clone the repository <br> <b> cd twilioreply-webhook </b><br>
 Make required adjustments in settings.py for applied hosts <br>
-<b> python manage.py runserver </b>
+<b> python manage.py runserver </b><br>
 After the API is running : <br>
 <ol>
   <li> Open twilio phone numbers console </li>
